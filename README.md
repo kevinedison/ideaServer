@@ -1,0 +1,2 @@
+# ideaServer
+ideas.server
